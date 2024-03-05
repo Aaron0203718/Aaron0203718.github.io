@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+<channel>
+	<title>Noticias</title>
+	<link>https://github.com/Aaron02037/feed</link>
+	<description>Noticias sobre tecnologia de Aarón Ramírez</description>
+	<language>es</language>
+	<lastBuildDate>Fri, 09 Feb 2024 20:46:00 GMT</lastBuildDate>
+	<item>
+		<title>¿Qué es el wifi 7? La nueva tecnología mejorará el acceso a Internet a nivel mundial.</title>
+		<pubDate>Fri, 09 Feb 2024 20:46:00 GMT</pubDate>
+		<guid>https://www.vozpopuli.com/tecnologia/wifi-7-acceso-internet.html</guid>
+		<description>
+		La entrada de esta nueva tecnología desarrollada por Wi-Fi Alliance que vio la luz el pasado 8 de enero de 2024 
+		mejorará el acceso de Internet de toda la población a nivel mundial.
+		</description>
+	</item>
+	<item>
+		<title>OpenAI tiene un equipo de Seguridad Infantil para garantizar que su tecnología de IA no es perjudicial para los menores</title>
+		<pubDate>Fri, 09 Feb 2024 20:46:00 GMT</pubDate>
+		<guid>https://www.europapress.es/portaltic/sector/noticia-openai-tiene-equipo-seguridad-infantil-garantizar-tecnologia-ia-no-perjudicial-menores-20240208143255.html</guid>
+		<description>
+		OpenAI tiene un equipo de Seguridad Infantil para garantizar que su tecnología de IA no es perjudicial para los menores OpenAI cuenta con un equipo de 
+		Seguridad Infantil con el que gestiona los incidentes relacionados con el uso que hacen los usuarios menores de edad de las herramientas de Inteligencia Artificial (IA), 
+		de cara a garantizar que las tecnologías de la compañía no sean "mal utilizadas" de manera perjudicial para los niños.
+		</description>
+	</item>
+	<item>
+		<title>China también prepara su tecnología para introducir chips en el cerebro, ¿competencia para Musk?</title>
+		<pubDate>Fri, 09 Feb 2024 20:46:00 GMT</pubDate>
+		<guid>https://www.msn.com/es-es/noticias/tecnologia/china-tambi%C3%A9n-prepara-su-tecnolog%C3%ADa-para-introducir-chips-en-el-cerebro-competencia-para-musk/ar-BB1icjd6</guid>
+		<description>
+		La llegada de la Inteligencia Artificial y la dependencia cada vez mayor que tenemos de nuestros smartphones y demás dispositivos inteligentes, 
+		hace ver que el momento en el que máquinas y humanos van a unirse está cada vez más cerca.
+		</description>
+	</item>
+	<item>
+		<title>Microsoft ya prueba en Windows Insider su propia tecnología de renderizado de juegos similar a DLSS de Nvidia</title>
+		<pubDate>Fri, 09 Feb 2024 20:46:00 GMT</pubDate>
+		<guid>https://www.diariosigloxxi.com/texto-ep/mostrar/20240212131725/microsoft-prueba-windows-insider-propia-tecnologia-renderizado-juegos-similar-dlss-nvidia</guid>
+		<description>
+		Microsoft está trabajando en su propia tecnología de renderizado al estilo de Deep Learning Super Sampling (DLSS) de Nvidia, con la que se mejorarán la imagen 
+		y la resolución de los videojuegos con el apoyo de la inteligencia artificial.
+		</description>
+	</item>
+	<managingEditor>a23radeaa@iesgrancapitan.org Aarón Ramírez</managingEditor>
+</channel>
+</rss>
